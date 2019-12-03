@@ -1,0 +1,9 @@
+@import "./varaibles";
+@import "./header";
+
+.contact {
+  @extend header;
+  background: lightcoral;
+  background: rgb(168, 58, 58);
+  width: 100% - 20%;
+}
